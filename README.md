@@ -1,16 +1,13 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**twiney94/twiney94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Software Engineer specializing in front-end web development technologies.
 
-Here are some ideas to get you started:
+## 📫 Let's Connect
+Feel free to reach out if you want to:
+- Collaborate on exciting projects
+- Share knowledge and experiences
+- Discuss front-end development trends
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Yass's GitHub stats](https://github-readme-stats.vercel.app/api?username=twiney94)](https://github.com/anuraghazra/github-readme-stats)
+
+---
